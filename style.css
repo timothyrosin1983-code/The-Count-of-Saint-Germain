@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  background-color: #f6f1ea;
+  color: #3b2f2f;
+  line-height: 1.7;
+}
+
+.hero {
+  height: 100vh;
+  background: url("https://images.unsplash.com/photo-1523413651479-597eb2da0ad6") center/cover no-repeat;
+  position: relative;
+}
+
+.overlay {
+  background: rgba(255, 248, 235, 0.75);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 3.2rem;
+  letter-spacing: 0.12em;
+  margin-bottom: 1rem;
+  color: #5a1f2b;
+}
+
+.tagline {
+  max-width: 650px;
+  font-size: 1.25rem;
+  color: #4a2c2a;
+  font-style: italic;
+}
+
+.section {
+  padding: 4rem 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.section h2 {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.1em;
+  margin-bottom: 1.5rem;
+  color: #7a2432;
+}
+
+.light {
+  background-color: #fffaf2;
+}
+
+.wares {
+  list-style: none;
+  padding: 0;
+}
+
+.wares li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e0d2c2;
+}
+
+.contact {
+  text-align: center;
+}
+
+.email a {
+  color: #8b1e3f;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.email a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+  background: #efe4d4;
+  color: #6a4a3c;
+}
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+}
