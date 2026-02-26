@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Count of Saint Germain</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="hero">
+  <div class="overlay">
+    <h1>The Count of Saint Germain</h1>
+    <p class="tagline">
+      Gather close, good folk—where stories dance, laughter lingers, and a touch of indulgence
+      is the noblest of virtues
+    </p>
+  </div>
+</header>
+
+<section class="section">
+  <h2>The Welcome</h2>
+  <p>
+    Welcome, travelers! I am the Count of Saint Germain—teller of tales, purveyor of finery,
+    and a humble servant to mirth and mischief alike. Step lightly, speak freely,
+    and let your heart catch a little delight along the way.
+  </p>
+
+  <p>
+    Crowns fit for kings and knaves, blades for daring souls, capes to make the wind sing,
+    and adornments to provoke admiration and a chuckle or two—all offered
+    with a story, a smile, and just enough flourish to make even Sir John Falstaff pause.
+  </p>
+
+  <p>
+    Life is meant to be tasted, toasted, and occasionally toasted again.
+    Moderation, they say, is virtue—but who among us remembers virtue in a moment of revelry?
+  </p>
+</section>
+
+<section class="section light">
+  <h2>Wares & Wonders</h2>
+  <p>
+    Look freely, try boldly, and laugh often. Courage, wit, and a fine hat all walk hand in hand,
+    and here, you may have them together.
+  </p>
+  <ul class="wares">
+    <li>Handcrafted Crowns & Circlets</li>
+    <li>Wooden Swords & Shields</li>
+    <li>Capes & Costume Accessories</li>
+    <li>Earrings & Jewelry</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Appearances & Bookings</h2>
+  <p>
+    The Count of Saint Germain appears at festivals, gatherings, and celebrations of all kinds.
+    By day, nimble and family-friendly; by lantern-light, roguish and mischievous,
+    always with charm, story, and a well-timed wink.
+  </p>
+</section>
+
+<section class="section light contact">
+  <h2>Summon the Count</h2>
+  <p>
+    Should you wish to summon laughter, stories, and a carefully measured indulgence
+    to your fair or festival, send word:
+  </p>
+  <p class="email">
+    <a href="mailto:your@email.com">your@email.com</a>
+  </p>
+</section>
+
+<footer>
+  <p>© The Count of Saint Germain</p>
+</footer>
+
+</body>
+</html>
